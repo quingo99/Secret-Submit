@@ -1,5 +1,5 @@
 # Secret-Submit
-Secret Anonymity Platform
+# # Secret Anonymity Platform
 A platform for users to share secrets anonymously. Using Passport with Facebook and Google authentication strategies, users can easily register or log in to submit their anonymous secrets.
 
 Features
